@@ -33,7 +33,7 @@
 ---
 
 ### ✉️ [serverless-subscription-service](https://github.com/your-username/serverless-subscription-service)
-> Fully serverless newsletter signup system. Signup API sends verification email using SES, token stored in DynamoDB with TTL, verified via unique link.
+> Fully serverless subscription system. Signup API sends verification email using SES, token stored in DynamoDB with TTL, verified via a unique link.
 
 - ✅ AWS Lambda + API Gateway
 - ✅ DynamoDB + SES
