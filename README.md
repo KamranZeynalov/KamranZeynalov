@@ -67,6 +67,15 @@
 
 ---
 
+### 🧠 [sentiment-analysis-service](https://github.com/KamranZeynalov/sentiment-analysis-service)
+> Serverless REST API using AWS Comprehend to detect sentiment (positive, negative, neutral, or mixed) in English text. Built with Java 17 and deployed via AWS SAM.
+
+- ✅ Java 17 + AWS Lambda  
+- ✅ Real-time sentiment via Comprehend  
+- ✅ Fully serverless setup  
+
+---
+
 ## 🧰 Tech Stack
 - 🧑‍💻 Languages: Java, Python (basic)
 - ☕ Frameworks: Spring Boot, JPA, Hibernate
