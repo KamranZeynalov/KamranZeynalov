@@ -67,6 +67,15 @@
 
 ---
 
+### 📝 [serverless-ocr-textract](https://github.com/KamranZeynalov/serverless-ocr-textract)  
+> OCR pipeline using AWS Textract to extract text from scanned images (e.g., receipts, invoices). Users upload images via pre-signed URLs and get auto-processed by Lambda.
+
+- ✅ AWS Textract
+- ✅ Pre-signed S3 uploads  
+- ✅ Auto-triggered processing with Lambda  
+
+---
+
 ### 🧠 [sentiment-analysis-service](https://github.com/KamranZeynalov/sentiment-analysis-service)
 > Serverless REST API using AWS Comprehend to detect sentiment (positive, negative, neutral, or mixed) in English text. Built with Java 17 and deployed via AWS SAM.
 
