@@ -97,3 +97,5 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/zeynalov-kamran/)
+
+![Profile views](https://komarev.com/ghpvc/?username=KamranZeynalov)
