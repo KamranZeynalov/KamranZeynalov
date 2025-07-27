@@ -76,6 +76,15 @@
 
 ---
 
+### 🔔 [smart-reminder-service](https://github.com/KamranZeynalov/smart-reminder-service)  
+> Fully serverless daily reminder app. Users set custom reminders and receive emails at scheduled times with motivational quotes of the day.
+
+- ✅ AWS Lambda + API Gateway  
+- ✅ DynamoDB + EventBridge + SES    
+- ✅ S3 Static Website + SAM Deployment 
+
+---
+
 ### 🧠 [sentiment-analysis-service](https://github.com/KamranZeynalov/sentiment-analysis-service)
 > Serverless REST API using AWS Comprehend to detect sentiment (positive, negative, neutral, or mixed) in English text. Built with Java 17 and deployed via AWS SAM.
 
